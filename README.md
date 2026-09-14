@@ -24,4 +24,4 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
 
-contribution name: kimwooseok (linux mainline - net, wireless  contibutor)
+contribution name: kimwooseok (linux mainline - net dev, wireless  contibutor)

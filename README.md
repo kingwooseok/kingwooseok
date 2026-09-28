@@ -27,7 +27,7 @@
 ## linux mainline contributor (net dev, wireless) - Kim Wooseok <5mghybrid@khu.ac.kr>
 
  -9f7edf4e8584 wifi: rtl8xxxu: free RX skb when URB submission fails  
- -4c58fb8944a2 wifi: rtl8xxxu: unwind incomplete receive startup
+ -4c58fb8944a2 wifi: rtl8xxxu: unwind incomplete receive startup  
  -2f77c6669410 wifi: rtl8xxxu: preserve RX requests across recoverable transfer errors
 
   - [net-next,v2,1/3] net: macb: Preserve timestamp settings on rejected requests

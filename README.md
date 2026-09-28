@@ -24,7 +24,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
 
-## linux mainline contributor (net dev, wireless) - Kim Wooseok <5mghybrid@khu.ac.kr>
+## 💫 linux mainline contributor (net dev, wireless) - Kim Wooseok <5mghybrid@khu.ac.kr>
 
  -9f7edf4e8584 wifi: rtl8xxxu: free RX skb when URB submission fails  
  -4c58fb8944a2 wifi: rtl8xxxu: unwind incomplete receive startup  

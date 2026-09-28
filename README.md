@@ -25,3 +25,14 @@
 ![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
 
 ## linux mainline contributor (net dev, wireless) - Kim Wooseok <5mghybrid@khu.ac.kr>
+
+9f7edf4e8584 wifi: rtl8xxxu: free RX skb when URB submission fails
+4c58fb8944a2 wifi: rtl8xxxu: unwind incomplete receive startup
+2f77c6669410 wifi: rtl8xxxu: preserve RX requests across recoverable transfer errors
+
+  - [net-next,v2,1/3] net: macb: Preserve timestamp settings on rejected requests
+    https://git.kernel.org/netdev/net-next/c/381cb968fa89
+  - [net-next,v2,2/3] net: macb: Enable RX timestamping for specific PTPv1 filters
+    https://git.kernel.org/netdev/net-next/c/059a5a238c22
+  - [net-next,v2,3/3] net: macb: Clear SRTSM outside PTPv2 receive filters
+    https://git.kernel.org/netdev/net-next/c/7ca3702d40d9

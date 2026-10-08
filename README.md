@@ -2,6 +2,9 @@
 
 ### ⚙️ Embedded & Low-Level
 
+![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-1A1A1A?style=for-the-badge&logo=linux&logoColor=FCC624)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-6DB33F?style=for-the-badge)
+
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
@@ -22,7 +25,12 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### 🔄 DevOps & Collaboration
+
 ![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ## 💫 Linux Mainline Contribution (net dev, wireless) - Kim Wooseok<5mghybrid@khu.ac.kr>
 
